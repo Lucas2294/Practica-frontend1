@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+*{
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+
+body{
+    width: 1440px;
+    background: url("./images/pattern-background-desktop.svg") no-repeat;
+}
+
+.contenedor{
+    margin: 0 auto;
+    width: 450px;
+    background: white;
+}
+
+section.texto{
+    text-align: center;
+}
+
+section p{
+    font-size: 16px;
+}
